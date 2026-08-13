@@ -31,3 +31,4 @@ Case study: [`playlistour-public`](https://github.com/farlaw/playlistour-public)
 ---
 
 I lead product. Building is how I test whether the judgment holds once the workflow is real.
+
